@@ -1,5 +1,7 @@
 # [CETech](https://github.com/cyberegoorg/cetech)
 
+[![Join the chat at https://gitter.im/cyberegoorg/cetech](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/cyberegoorg/cetech?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/cyberegoorg/cetech.svg?branch=master)](https://travis-ci.org/cyberegoorg/cetech)
 [![Issues](https://img.shields.io/github/issues/cyberegoorg/cetech.svg)](https://github.com/cyberegoorg/cetech/issues)
 [![Release](https://img.shields.io/github/release/cyberegoorg/cetech.svg)](https://github.com/cyberegoorg/cetech/releases)
